@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "default_action": "deny",
+  "allowed_actions": {
+    "sentinel.analyze": true,
+    "operator.plan": true
+  },
+  "require_approval_for": [],
+  "blocked_patterns": []
+}
